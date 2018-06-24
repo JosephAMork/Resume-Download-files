@@ -1,3 +1,7 @@
+# to install lib  use  pip install urllib 
+# FB Group: Kali linux and blackarch tools
+# edit by Joseph A Morcos
+# python [ 3.7 ] with urllib lib
 import urllib,os
 
 TARGET_URL='https://www.python.org/ftp/python/2.7.4/'  # or any url to want 
